@@ -1,6 +1,6 @@
 # animation
 
-.
+```
 ├── README.md
 ├── ほうきアクション
 │   ├── flyingbroom.mov
@@ -124,3 +124,4 @@
 │   └── tamanori.mov
 ├── 色々.fla
 ├── 色々.swf
+```
